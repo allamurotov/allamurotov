@@ -1,46 +1,78 @@
-<h1 align="center">SardorCoder</h1>
-<h3 align="center">Backend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+PostgreSQL;Never+Stop+Learning+🚀" />
-</p>
+# 👋 Salom, Men <a href="https://github.com/SardorCoder">SardorCoder</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Building%20Digital%20Solutions&descAlignY=55&descSize=20" width="100%" />
 
----
+<br/>
 
-### 🧠 About Me
-I am Sardor — Backend developer in progress.  
-Focused on building strong APIs and systems.
+### 🛠️ Full Stack Yo'nalishidagi Izlanuvchi & Dasturchi
+
+"Murakkab muammolarga sodda va samarali yechimlar topishni yoqtiraman."
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,nestjs,postgres" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SardorCoder&label=Profilga%20tashriflar&color=grey&style=flat" alt="SardorCoder" />
 </p>
+
+</div>
+
+### 🚀 Men haqimda qisqacha:
+- 💻 Hozirda **Node.js, Express.js va PostgreSQL** ekotizimida chuqur bilim olmoqdaman.
+- 🏗️ **Figma** dizaynlarini jonli kodga aylantirish (UI/UX implementation) bilan shug'ullanaman.
+- 🔒 Xavfsiz login tizimlari va **Backend** arxitekturasini qurishga qiziqaman.
+- 📚 Doimiy ravishda yangi texnologiyalarni o'rganish ustida ishlayman.
+
+### 🧰 Texnologiyalar & Instrumentlar:
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allamurotov&show_icons=true&theme=dark&hide_border=true"/>
-</p>
+### 📊 GitHub Statistika (Harakatlanuvchi):
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=allamurotov&theme=dark&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SardorCoder&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SardorCoder&layout=compact&theme=dark&hide_border=true&bg_color=00000000" />
+</div>
 
 ---
 
-### 🌐 Connect
-<p align="center">
-  <a href="https://t.me/sardor_devx">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/>
+### 📫 Men bilan bog'lanish:
+<div align="center">
+  <a href="https://t.me/SardorCoder">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/allamurotov.27">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="mailto:SardorCoder@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quotes" />
+</div>
