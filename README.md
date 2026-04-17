@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">SardorCoder</h1>
+<h3 align="center">Backend Developer</h3>
 
-<!--
-**allamurotov/allamurotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=SardorCoder&fontSize=40&fontColor=ffffff"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+Hi there! My name is Sardor.  
+I am learning Backend Development 🚀  
+I work with Node.js, NestJS and PostgreSQL.
+
+---
+
+### 🛠 Tech Stack
+- JavaScript
+- Node.js
+- NestJS
+- PostgreSQL
+
+---
+
+### 🌐 Connect with me
+- Telegram: https://t.me/yourusername
+- Instagram: https://instagram.com/yourusername
