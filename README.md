@@ -1,5 +1,5 @@
 <h1 align="center">SardorCoder</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+NestJS+%7C+PostgreSQL;Never+Stop+Learning+🚀" />
@@ -19,7 +19,7 @@ Focused on building strong APIs and systems.
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,nestjs,postgres" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,nestjs,postgres,java,typer scrip" />
 </p>
 
 ---
