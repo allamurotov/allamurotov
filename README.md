@@ -1,16 +1,27 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=220&section=header&text=SardorCoder&fontSize=36&fontColor=ffffff&desc=Web%20Developer&descSize=26&descAlignY=60" />
-</p>
+<h1 align="center">SardorCoder</h1>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  Hi there! I'm Sardor, a web developer focused on building clean and scalable web applications.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=SardorCoder&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<p align="center">
-  <a href="https://t.me/yourusername">
-    <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-2b2118?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+---
+
+### 👨‍💻 About Me
+Hi there! My name is Sardor.  
+I am learning Backend Development 🚀  
+I work with Node.js, NestJS and PostgreSQL.
+
+---
+
+### 🛠 Tech Stack
+- JavaScript
+- Node.js
+- NestJS
+- PostgreSQL
+
+---
+
+### 🌐 Connect with me
+- Telegram: https://t.me/yourusername
+- Instagram: https://instagram.com/yourusername
