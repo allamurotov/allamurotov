@@ -23,5 +23,5 @@ I work with Node.js, NestJS and PostgreSQL.
 ---
 
 ### 🌐 Connect with me
-- Telegram: https://t.me/yourusername
-- Instagram: https://instagram.com/yourusername
+- Telegram: https://t.me/sardor_devx
+- Instagram: https://instagram.com/allamurotov.27
