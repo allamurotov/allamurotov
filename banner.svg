@@ -119,17 +119,45 @@
   </g>
 
   <!-- BIO SECTION -->
-  <rect y="220" width="860" height="260" fill="#111111"/>
-  <text x="430" y="262" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">
-    <tspan>Hi there! My name is Sardor, but you might know me as </tspan><tspan font-weight="bold" fill="#ffffff">SardorCoder</tspan><tspan>. I'm a </tspan><tspan font-weight="bold" fill="#ffffff">Software Engineer</tspan><tspan> from </tspan><tspan font-weight="bold" fill="#ffffff">Uzbekistan</tspan><tspan>,</tspan>
-  </text>
-  <text x="430" y="284" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">collaborating with multiple companies and building strong tech networks.</text>
-  <text x="430" y="306" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">
-    <tspan>I enjoy working with </tspan><tspan font-weight="bold" fill="#ffffff">TypeScript</tspan><tspan>, </tspan><tspan font-weight="bold" fill="#ffffff">Next.js</tspan><tspan>, </tspan><tspan font-weight="bold" fill="#ffffff">React Native</tspan><tspan>, and </tspan><tspan font-weight="bold" fill="#ffffff">Node.js</tspan><tspan>. I'm passionate about</tspan>
-  </text>
-  <text x="430" y="328" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">
-    <tspan font-weight="bold" fill="#ffffff">Open Source</tspan><tspan> and </tspan><tspan font-weight="bold" fill="#ffffff">Community Growth</tspan><tspan>, and I love sharing my knowledge through tutorials and social media.</tspan>
-  </text>
+ <rect y="220" width="860" height="260" fill="#111111"/>
+
+<text x="430" y="262" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">
+  <tspan>Hi there! My name is </tspan>
+  <tspan font-weight="bold" fill="#ffffff">Sardor</tspan>
+  <tspan>. I'm a </tspan>
+  <tspan font-weight="bold" fill="#ffffff">Web Developer</tspan>
+  <tspan> from </tspan>
+  <tspan font-weight="bold" fill="#ffffff">Uzbekistan</tspan>
+  <tspan>.</tspan>
+</text>
+
+<text x="430" y="284" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">
+  I build clean and scalable web applications and backend systems.
+</text>
+
+<text x="430" y="306" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">
+  <tspan>I work with </tspan>
+  <tspan font-weight="bold" fill="#ffffff">Express.js</tspan>
+  <tspan>, </tspan>
+  <tspan font-weight="bold" fill="#ffffff">NestJS</tspan>
+  <tspan>, </tspan>
+  <tspan font-weight="bold" fill="#ffffff">JavaScript</tspan>
+  <tspan>, </tspan>
+  <tspan font-weight="bold" fill="#ffffff">TypeScript</tspan>
+  <tspan>, </tspan>
+  <tspan font-weight="bold" fill="#ffffff">C</tspan>
+  <tspan>, and </tspan>
+  <tspan font-weight="bold" fill="#ffffff">Python</tspan>
+  <tspan>.</tspan>
+</text>
+
+<text x="430" y="328" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">
+  <tspan>I also use </tspan>
+  <tspan font-weight="bold" fill="#ffffff">MySQL</tspan>
+  <tspan> and </tspan>
+  <tspan font-weight="bold" fill="#ffffff">PostgreSQL</tspan>
+  <tspan> to build reliable database-driven applications.</tspan>
+</text>
 
   <text x="430" y="366" text-anchor="middle" font-family="Arial,sans-serif" font-size="13">
     <tspan fill="#6aaff0" text-decoration="underline">portfolio</tspan>
