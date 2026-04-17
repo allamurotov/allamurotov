@@ -84,11 +84,9 @@
   <circle class="node ln6" cx="170" cy="150" r="2"/>
   <circle class="node ln7" cx="30" cy="170" r="2"/>
 
-  <!-- CENTER TEXT -->
-  <text x="430" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="46" font-weight="300" fill="white" letter-spacing="1">JasurCoder</text>
-  <text x="430" y="155" text-anchor="middle" font-family="Georgia,serif" font-size="38" font-weight="300" fill="white" letter-spacing="2">Software Engineer</text>
+  <text x="430" y="95" text-anchor="middle" font-family="Georgia,serif" font-size="46" font-weight="300" fill="white" letter-spacing="1">SardorCoder</text>
+  <text x="430" y="155" text-anchor="middle" font-family="Georgia,serif" font-size="38" font-weight="300" fill="white" letter-spacing="2">Web Developer</text>
 
-  <!-- RIGHT edges -->
   <g transform="translate(640,0)">
     <line class="edge" x1="60" y1="30" x2="150" y2="50"/>
     <line class="edge" x1="150" y1="50" x2="190" y2="80"/>
@@ -123,7 +121,7 @@
   <!-- BIO SECTION -->
   <rect y="220" width="860" height="260" fill="#111111"/>
   <text x="430" y="262" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">
-    <tspan>Hi there! My name is Jasurbek, but you might know me as </tspan><tspan font-weight="bold" fill="#ffffff">JasurCoder</tspan><tspan>. I'm a </tspan><tspan font-weight="bold" fill="#ffffff">Software Engineer</tspan><tspan> from </tspan><tspan font-weight="bold" fill="#ffffff">Uzbekistan</tspan><tspan>,</tspan>
+    <tspan>Hi there! My name is Sardor, but you might know me as </tspan><tspan font-weight="bold" fill="#ffffff">SardorCoder</tspan><tspan>. I'm a </tspan><tspan font-weight="bold" fill="#ffffff">Software Engineer</tspan><tspan> from </tspan><tspan font-weight="bold" fill="#ffffff">Uzbekistan</tspan><tspan>,</tspan>
   </text>
   <text x="430" y="284" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">collaborating with multiple companies and building strong tech networks.</text>
   <text x="430" y="306" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#cccccc">
