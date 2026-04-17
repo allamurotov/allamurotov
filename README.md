@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=220&section=header&text=Sardor&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&vCenter=true&width=400&lines=Backend+Developer;Building+in+Silence;No+Limits" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&center=true&vCenter=true&width=600&lines=Sardor;Web+Developer;Backend+Focused;JavaScript+%7C+TypeScript+%7C+Python;PostgreSQL+%7C+MySQL" />
 </p>
 
 ---
 
 <p align="center">
-  Backend developer in progress.  
+  Building clean and scalable web systems.
 </p>
 
 ---
