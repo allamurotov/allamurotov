@@ -51,7 +51,7 @@
     </style>
   </defs>
 
-  <rect width="860" height="220" fill="#0d0d0d"/>
+<rect width="860" height="200" fill="#0d0d0d"/>
 
   <line class="edge" x1="30" y1="60" x2="90" y2="30"/>
   <line class="edge" x1="90" y1="30" x2="160" y2="50"/>
