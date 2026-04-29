@@ -11,6 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/sardor_devx" target="_blank"><img src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/WebSardor" target="_blank"><img src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/allamurotov.27/" target="_blank"><img src="https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
