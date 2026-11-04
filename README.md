@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/SIZNING_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/serdarallamurotov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
   <a href="https://instagram.com/allamurotov.27"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sardor-allamurotov-a8424043b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
